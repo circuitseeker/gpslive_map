@@ -1,0 +1,10 @@
+# Secrets — never commit real credentials
+secrets.h
+**/secrets.h
+
+# Build artifacts
+build/
+*.bin
+*.elf
+*.hex
+.DS_Store
